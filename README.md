@@ -63,17 +63,17 @@ I created and structured this as a "class" for myself to prepare for my OS class
 This is here for anyone that wants to follow along or implement what I did as well! WARNING: lots of reading <.<
 
 ## Week 1: Toolchain Setup + Intro to C + OS Overview
-- **Pointers on C** – Chapters 1–3  
-- **Little OS Book** – Chapter 2: First Steps (2.1–2.3)  
-- **Operating System Concepts** – Chapters 1 (Introduction), 2 (Operating-System Concepts)  
+- **Pointers on C** – Chapters 1–3  [Complete]
+- **Little OS Book** – Chapter 2: First Steps (2.1–2.3)  [Complete, not executed]
+- **Operating System Concepts** – Chapters 1 (Introduction), 2 (Operating-System Concepts)  [Incomplete, too large of a bite for allocated 6hrs of learning time]
 - Learn:
-  - C language basics: variables, functions, I/O
-  - Setting up the build system, emulator, bootloader
-  - Overview of OS goals, structure, and services
+  - C language basics: variables, functions, I/O [Complete]
+  - Setting up the build system, emulator, bootloader [Application not complete]
+  - Overview of OS goals, structure, and services [Reading not complete]
 - Deliverables:
-  - Working cross-compiler
-  - Simple "Hello World" C programs
-  - GitHub repo initialized
+  - Working cross-compiler [Incomplete]
+  - Simple "Hello World" C programs [Complete]
+  - GitHub repo initialized [Complete]
 
 ---
 
