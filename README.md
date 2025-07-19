@@ -46,7 +46,7 @@ I created and structured this as a "class" for myself to prepare for my OS class
 
 | Week | Focus | Status |
 |------|-------|--------|
-| Week 1 | Learn C basics | [ ] |
+| Week 1 | Learn C basics | [x] |
 | Week 2 | Pointers, memory | [ ] |
 | Week 3 | Bootloader + print | [ ] |
 | Week 4 | Scheduler | [ ] |
