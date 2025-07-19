@@ -10,7 +10,10 @@ I created and structured this as a "class" for myself to prepare for my OS class
 
 ## References
 - **C Programming:** _Pointers on C_ by Kenneth Reek (Excellent book, I highly recommend it!)
-- **OS Theory:** _Operating System Concepts_ (10th Edition) by Silberschatz (The book I would be using in my actual class)
+- **OS Theory:**
+        _Operating System Concepts_ (10th Edition) by Silberschatz (The book I would be using in my actual class)
+        [Youtube Lecture on the book](https://www.youtube.com/watch?v=zJTqTs7Ujr8&list=PLW1yb8L3S1ngGmtKlI5XYcTNQQ1r3xZvq&index=1&pp=iAQB)
+        [Audio recording of the first five chapters](https://www.youtube.com/watch?v=j7hNia9mScA&list=PLYxtR5WtqBD20zL95DzephYBu1TBCJAfT)
 - **Kernel Guide:** [_The Little Book About OS Development_](https://littleosbook.github.io/)
 
 ---
